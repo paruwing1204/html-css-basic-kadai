@@ -1,0 +1,25 @@
+html {
+    font-size: 20px;
+}
+body {
+    font-family: "Arial","Meiryo",sans-serif;
+}
+.myprofile {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 2rem;
+    letter-spacing: 1.2em;
+    text-shadow: 2px 1px 2px yellow;
+    border-bottom: solid 3px rgb(115, 115, 114);
+}
+.text-a, .umare, .syumi, .riyuu {
+    color: skyblue;
+}
+.text-b, .namae, .ketuekigata ,.tabemono {
+    color: rgb(255, 192, 203);
+}
+.myprofile, .namae, .samurai, .umare, .hiniti, .ketuekigata, .ogata, .syumi, .ryokou, .tabemono, .food, .riyuu, .answer {
+    text-align: center;
+}
+#basic .samurai, .hiniti, .ogata {
+    font-weight: bold;
+}
